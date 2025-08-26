@@ -1,0 +1,3 @@
+name: Ice Cream Factory Source Data
+description: The data sets for the bootcamp!!! :)
+externalId: {{ icapi_ds_external_id }}
